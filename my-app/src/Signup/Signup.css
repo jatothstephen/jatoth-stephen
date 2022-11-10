@@ -1,0 +1,53 @@
+.mainheader{
+  background-color: aqua;
+  border-radius: 50rem;
+}
+
+
+.profile{
+    text-align: center;
+    margin-top: 7vh;
+    font-weight: 200;
+    font-family: cursive;
+    font-style: italic;
+  
+  
+  }
+  .Loginform{
+    text-align: center;
+    background: gray;
+    font-size: 16-x;
+    margin: 0;
+    padding: 10px;
+    color: aqua;
+    font-family: cursive;
+    font-weight: 300;
+  }
+
+.btn1{
+  float: right;
+  color: #1cc49d;
+  background-color: #1b2f31;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2em;
+  width: 8em;
+  font-size: small;
+  font-weight: 600;
+}
+
+.btn2{
+  float: left;
+  color: red;
+  background-color: #1b2f31;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2em;
+  width: 8em;
+  font-size: small;
+  font-weight: 600;
+}
